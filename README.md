@@ -136,9 +136,10 @@
 
 <!-- Social section ----------------------------------------------------------------------------------------------->
 <h3 align="left">Contact ME</h3>
-<p align="center">
+<p align="left">
 <img title="Discord" href="https://discord.gg/?" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="5%"/>
 </p>
+Soon . . .
 
 
 
