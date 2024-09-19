@@ -2,9 +2,8 @@
 <h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
 
 <!-- Me / myself section ----------------------------------------------------------------------------------------------->
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&theme=radical) 
 
-![Commit Language](https://github-readme-stats.vercel.app/api/wakatime?username=FrenchPower7&layout=compact) -->
+
 
 <!-- Project section ----------------------------------------------------------------------------------------------->
 
@@ -156,7 +155,9 @@ Soon . . .
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=compact&langs_count=10&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&count_private=true&include_all_commits=true&theme=radical) -->
+
+Nombre total de projets publics : [![Profile Count](https://img.shields.io/github/repos/ton_nom_utilisateur?style=social)](https://github.com/ton_nom_utilisateur?tab=repositories)
 
 
 <!---
