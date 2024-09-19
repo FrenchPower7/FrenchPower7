@@ -155,6 +155,8 @@ Soon . . .
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=compact&langs_count=10&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&hide=TeX&layout=compact)
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&count_private=true&include_all_commits=true&theme=radical) -->
 
 Nombre total de projets publics : [![Profile Count](https://img.shields.io/github/repos/FrenchPower7?style=social)](https://github.com/FrenchPower7?tab=repositories)
