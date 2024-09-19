@@ -6,8 +6,6 @@
 
 ![Commit Language](https://github-readme-stats.vercel.app/api/wakatime?username=FrenchPower7&layout=compact) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=compact&langs_count=10&theme=radical)
-
 <!-- Project section ----------------------------------------------------------------------------------------------->
 
 <!-- Skill section ----------------------------------------------------------------------------------------------->
@@ -153,7 +151,10 @@ Soon . . .
 
 
 
-<!-- testing stuff -->
+<!-- Stat -->
+<h3 align="left">🗠Stats and graph 📈</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=compact&langs_count=10&theme=radical)
 
 
 
