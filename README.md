@@ -157,11 +157,4 @@ Soon . . .
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&count_private=true&include_all_commits=true&theme=radical) -->
 
-Nombre total de projets publics : [![Profile Count](https://img.shields.io/github/repos/FrenchPower7?style=social)](https://github.com/FrenchPower7?tab=repositories)
-
-
-<!---
-FrenchPower7/FrenchPower7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 </body>
