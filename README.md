@@ -4,7 +4,8 @@
 <!-- Me / myself section ----------------------------------------------------------------------------------------------->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&theme=radical) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FrenchPower7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Commit Language](https://github-readme-stats.vercel.app/api/wakatime?username=FrenchPower7&layout=compact)
+
 
 
 
