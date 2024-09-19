@@ -2,7 +2,7 @@
 <h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
 
 <!-- Me / myself section ----------------------------------------------------------------------------------------------->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7_utilisateur&layout=compact&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=compact&langs_count=10&theme=radical)
 
 <!-- Project section ----------------------------------------------------------------------------------------------->
 
