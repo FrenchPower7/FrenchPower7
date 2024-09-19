@@ -2,7 +2,10 @@
 <h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
 
 <!-- Me / myself section ----------------------------------------------------------------------------------------------->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&theme=radical)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&theme=radical) -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FrenchPower7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=compact&langs_count=10&theme=radical)
