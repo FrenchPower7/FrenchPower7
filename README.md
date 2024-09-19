@@ -1,16 +1,9 @@
-<h1 align="center"> - Old profil - </h1>
-
-- 👋 Hi, I’m @FrenchPower7
-- 👀 I’m interested in Video Games / Informatics / Kayak
-- 🌱 I’m currently learning Everything
-- 📫 How to reach me ... soon
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: This ' ; ' and this ' ; ' are not the same
-
 <body>
-<h1 align="center"> ⬇️ *W.I.P* 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 *W.I.P* ⬇️ </h1>
+<h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
   <!-- Skill section ----------------------------------------------------------------------------------------------->
-<h3 align="left">💻 Software and Tools i use</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+  
+<h3 align="left">💻 Software and Tools 🧰 </h3>
 <br>
   <!--- 
   Python / TypeScript / Linux / Bootstrap / C / Dockers / Html5 / JS / PHP / GIT / Java / CSS / Figma / SQL / Powershell / VMware / Proxmox / GNS3 / Cisco
