@@ -157,7 +157,7 @@ Soon . . .
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&count_private=true&include_all_commits=true&theme=radical) -->
 
-Nombre total de projets publics : [![Profile Count](https://img.shields.io/github/repos/ton_nom_utilisateur?style=social)](https://github.com/ton_nom_utilisateur?tab=repositories)
+Nombre total de projets publics : [![Profile Count](https://img.shields.io/github/repos/FrenchPower7?style=social)](https://github.com/FrenchPower7?tab=repositories)
 
 
 <!---
