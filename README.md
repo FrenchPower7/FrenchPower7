@@ -153,9 +153,7 @@ Soon . . .
 <!-- Stat -->
 <h3 align="left">📈Stats and graph 📈</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=compact&langs_count=10&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&hide=TeX&layout=compact&theme=radical)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&count_private=true&include_all_commits=true&theme=radical) -->
 
