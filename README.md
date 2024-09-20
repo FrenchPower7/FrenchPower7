@@ -2,6 +2,7 @@
 <h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
 
 <!-- Me / myself section ----------------------------------------------------------------------------------------------->
+<h3 align="center">👨🏽‍💻 Who i'am 👨🏽‍💻</h3>
 
 I live in ✈️ . . .
 France 🇫🇷 🍷🧀
@@ -9,7 +10,8 @@ France 🇫🇷 🍷🧀
 I'm 20 years old Junior Dev 😄
 
 I'm working on this project :
-![Dernier dépôt](https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=NomDuDepot)
+
+![Dernier dépôt](https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=Qrcode)
 
 
 
