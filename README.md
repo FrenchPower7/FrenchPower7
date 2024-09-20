@@ -11,7 +11,7 @@ I'm 20 years old Junior Dev 😄
 
 I'm working on this project :
 
-![Dernier dépôt](https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=Qrcode)
+![Dernier dépôt](https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=Python-Qr-code)
 
 
 
