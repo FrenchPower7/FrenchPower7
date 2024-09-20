@@ -71,10 +71,21 @@ I'm working on this project :
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
 </a>
 
+<!--- Trello --->
+<a href="https://trello.com/" target="_blank" rel="noreferrer">
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white">
+</a>
+
 <!--- PHP --->
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
 </a>
+
+<!--- GNS3 --->
+<a href="https://www.gns3.com/" target="_blank" rel="noreferrer">
+  <img alt="GNS3" src="https://img.shields.io/badge/GNS3-0078D7?logo=gns3&logoColor=white">
+</a>
+
 
 <!--- Git --->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
