@@ -3,6 +3,14 @@
 
 <!-- Me / myself section ----------------------------------------------------------------------------------------------->
 
+I live in ✈️ . . .
+France 🇫🇷 🍷🧀
+
+I'm 20 years old Junior Dev 😄
+
+I'm working on this project :
+![Dernier dépôt](https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=NomDuDepot)
+
 
 
 <!-- Project section ----------------------------------------------------------------------------------------------->
