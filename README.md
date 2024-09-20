@@ -91,6 +91,12 @@ I'm working on this project :
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white">
 </a>
 
+<!--- Blender --->
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white">
+</a>
+
+
 <!--- CSS3 --->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
