@@ -12,7 +12,7 @@ I'm 20 years old Junior Dev 😄
 I'm working on this project :
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=Snake&theme=radical" alt="Dernier dépôt 1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=Python-Qr-code&theme=radical" alt="Dernier dépôt 2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=PokemonGame&theme=radical" alt="Dernier dépôt 2">
 </div>
 
 
