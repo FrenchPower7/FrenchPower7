@@ -11,7 +11,7 @@ I'm 20 years old Junior Dev 😄
 
 I'm working on this project :
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=eisenhower-matrix-Powershell-&theme=radical" alt="Dernier dépôt 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=Snake&theme=radical" alt="Dernier dépôt 1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=Python-Qr-code&theme=radical" alt="Dernier dépôt 2">
 </div>
 
@@ -175,7 +175,7 @@ Soon . . .
 <!-- Stat -->
 <h3 align="left">📈Stats and graph 📈</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&hide=TeX&layout=compact&theme=radical)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&hide=TeX&layout=compact&theme=radical) -->
