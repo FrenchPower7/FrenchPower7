@@ -177,6 +177,8 @@ Soon . . .
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&hide=TeX&layout=compact&theme=radical)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&hide=TeX&layout=compact) -->
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchPower7&show_icons=true&count_private=true&include_all_commits=true&theme=radical) -->
 
 </body>
