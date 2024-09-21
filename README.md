@@ -10,10 +10,11 @@ France 🇫🇷 🍷🧀
 I'm 20 years old Junior Dev 😄
 
 I'm working on this project :
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=eisenhower-matrix-Powershell-&theme=radical" alt="Dernier dépôt 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=Python-Qr-code&theme=radical" alt="Dernier dépôt 2">
+</div>
 
-![Dernier dépôt](https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=eisenhower-matrix-Powershell-&theme=radical)
-
-![Dernier dépôt](https://github-readme-stats.vercel.app/api/pin/?username=FrenchPower7&repo=Python-Qr-code&theme=radical)
 
 <!-- Project section ----------------------------------------------------------------------------------------------->
 
