@@ -177,6 +177,7 @@ Soon . . .
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=donut&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=donut&theme=none)
 <p align="center">
         <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/Bottom.svg" alt="Github Stats" />
 </p>
