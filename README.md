@@ -175,7 +175,7 @@ Soon . . .
 <!-- Stat -->
 <h3 align="left">📈Stats and graph 📈</h3>
 
-![Toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=donut&theme=radical)
+![Toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchPower7&layout=donut&theme=radical&2)
 
 
 <p align="center">
