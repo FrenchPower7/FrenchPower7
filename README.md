@@ -5,7 +5,7 @@
 <h3 align="center">👨🏽‍💻 Who i'am 👨🏽‍💻</h3>
 
 I live in ✈️ . . .
-Portugal 🇫🇷 🍷🧀
+France ! 🇫🇷 🍷🧀
 
 I'm 20 years old Junior Dev 😄
 
